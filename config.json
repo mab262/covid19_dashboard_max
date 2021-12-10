@@ -1,0 +1,20 @@
+{
+    "API-keys": {
+        "weather": "7e07fba5693c47c2a150739c4d58d177",
+        "news": "c313b81f36e64931934167be29e71f7e",
+        "O365": "<private API key>"
+    },
+    "updates": {
+        "title": [],
+        "content": []
+    },
+    "keywords": {
+        "title": "Covid-19 Dashboard",
+        "location": "Exeter",
+        "national_location": "England"
+    },
+    "removed": {
+        "articles": [
+        ]
+    }
+}
